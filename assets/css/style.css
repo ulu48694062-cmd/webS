@@ -1,0 +1,34 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background: #fffdf8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background: #f4efe6;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 0 20px;
+  }
+  
+  footer {
+    background: #f4efe6;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+  }
+  
